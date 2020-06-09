@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "877216203870",
+    "firebase_url": "https://authenticationpoc-mvvm.firebaseio.com",
+    "project_id": "authenticationpoc-mvvm",
+    "storage_bucket": "authenticationpoc-mvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877216203870:android:c5033600b712c4569820cf",
+        "android_client_info": {
+          "package_name": "com.example.authenticationpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877216203870-k3t130jcg3m2p3dmciirmttdp06324r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdjQAvHYtvkQP9evwMbZJHlOHJ3Epnr90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877216203870-k3t130jcg3m2p3dmciirmttdp06324r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

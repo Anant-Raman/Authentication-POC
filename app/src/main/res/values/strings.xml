@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AuthenticationPOC</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="don_t_have_an_account_click_here_to">Don\'t have an account? Click here to</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="preference_file_key">shared_pref</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="data_added">Data Added</string>
+    <string name="empty_email_or_password">Email or password cannot be empty!!</string>
+    <string name="authentication_poc_app">Authentication POC App</string>
+    <string name="password_confirmpassword_should_match">Password and confirm password should match</string>
+    <string name="congratulation_you_successfully_logged_in">Congratulation!! You successfully logged in.</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+</resources>
