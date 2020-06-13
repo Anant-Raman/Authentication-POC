@@ -1,4 +1,4 @@
-package com.example.authenticationpoc.main.repository
+package com.example.authenticationpoc.home.repository
 
 import android.content.Context
 import com.example.authenticationpoc.core.interfaces.ResponseListener

@@ -12,7 +12,7 @@ import com.example.authenticationpoc.R
 import com.example.authenticationpoc.auth.signup.model.SignUpResponseData
 import com.example.authenticationpoc.auth.signup.viewmodel.SignUpViewModel
 import com.example.authenticationpoc.databinding.ActivitySignUpBinding
-import com.example.authenticationpoc.main.view.HomeActivity
+import com.example.authenticationpoc.home.view.HomeActivity
 import com.example.authenticationpoc.utility.Utility
 import kotlinx.android.synthetic.main.activity_sign_up.*
 

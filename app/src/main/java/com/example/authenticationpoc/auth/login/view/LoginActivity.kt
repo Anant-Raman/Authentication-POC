@@ -9,18 +9,18 @@ import androidx.appcompat.widget.Toolbar
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.example.authenticationpoc.R
-import com.example.authenticationpoc.auth.login.model.AssociateAuthResponseData
+import com.example.authenticationpoc.auth.login.model.AuthResponseData
 import com.example.authenticationpoc.auth.login.viewmodel.LoginViewModel
 import com.example.authenticationpoc.auth.signup.view.SignUpActivity
 import com.example.authenticationpoc.core.Constants
-import com.example.authenticationpoc.main.view.HomeActivity
+import com.example.authenticationpoc.home.view.HomeActivity
 import com.example.authenticationpoc.utility.Utility
 import kotlinx.android.synthetic.main.activity_login.*
 
 class LoginActivity : AppCompatActivity() {
 
     private lateinit var loginViewModel: LoginViewModel
-    private var currentUser: AssociateAuthResponseData? = null
+    private var currentUser: AuthResponseData? = null
     private lateinit var context: Context
     private lateinit var toolbar: Toolbar
 

@@ -1,10 +1,9 @@
-package com.example.authenticationpoc.main.repository
+package com.example.authenticationpoc.home.repository
 
 import android.content.Context
 import com.example.authenticationpoc.core.Constants
 import com.example.authenticationpoc.core.interfaces.ResponseListener
 import com.firebase.ui.auth.AuthUI
-import com.google.firebase.auth.FirebaseAuth
 
 class LogoutUsingFirebase : HomeRepository {
 

@@ -4,8 +4,8 @@ import com.example.authenticationpoc.auth.login.repository.LoginRepository
 import com.example.authenticationpoc.auth.login.repository.LoginUsingFirebase
 import com.example.authenticationpoc.auth.signup.repository.SignUpRepository
 import com.example.authenticationpoc.auth.signup.repository.SignUpUsingFirebase
-import com.example.authenticationpoc.main.repository.HomeRepository
-import com.example.authenticationpoc.main.repository.LogoutUsingFirebase
+import com.example.authenticationpoc.home.repository.HomeRepository
+import com.example.authenticationpoc.home.repository.LogoutUsingFirebase
 
 object DataHelper {
 

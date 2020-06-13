@@ -1,4 +1,4 @@
-package com.example.authenticationpoc.main.viewmodel
+package com.example.authenticationpoc.home.viewmodel
 
 import android.content.Context
 import androidx.lifecycle.MutableLiveData

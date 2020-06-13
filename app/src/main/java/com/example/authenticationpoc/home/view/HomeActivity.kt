@@ -1,4 +1,4 @@
-package com.example.authenticationpoc.main.view
+package com.example.authenticationpoc.home.view
 
 import android.content.Intent
 import android.os.Bundle
@@ -11,7 +11,7 @@ import androidx.lifecycle.ViewModelProvider
 import com.example.authenticationpoc.R
 import com.example.authenticationpoc.auth.login.view.LoginActivity
 import com.example.authenticationpoc.core.Constants
-import com.example.authenticationpoc.main.viewmodel.HomeViewModel
+import com.example.authenticationpoc.home.viewmodel.HomeViewModel
 import com.example.authenticationpoc.utility.Utility
 
 class HomeActivity : AppCompatActivity() {
@@ -21,7 +21,7 @@ class HomeActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_home)
         homeViewModel = ViewModelProvider(this).get(HomeViewModel::class.java)
         setUpToolbar()
     }

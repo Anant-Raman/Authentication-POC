@@ -1,4 +1,4 @@
-package com.example.authenticationpoc.auth.splash
+package com.example.authenticationpoc.splash
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.example.authenticationpoc.R
 import com.example.authenticationpoc.auth.login.view.LoginActivity
 import com.example.authenticationpoc.core.Constants
-import com.example.authenticationpoc.main.view.HomeActivity
+import com.example.authenticationpoc.home.view.HomeActivity
 import com.example.authenticationpoc.utility.Utility
 
 class SplashActivity : AppCompatActivity() {
