@@ -1,5 +1,5 @@
 # Authentication-POC
-A POC og Authentication feature using firebase to demonstrate clean and loosely coupled MVVM architecture. 
+A POC on Authentication feature using firebase to demonstrate clean and loosely coupled MVVM architecture. 
 
 
 How to setup the project?
